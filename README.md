@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm ANAND B ARJUN</h1>
 <h3 align="center">Highly proficient ethical hacker, pentester, and server developer who possesses several talents. concentrating on cutting-edge technological developments and research,developer</h3> <br>
-- 🔭 I’m currently working on < a href="http://cfx.re/join/8zy4k4" target="_blank"><img src="https://cdn.discordapp.com/attachments/967104133700157490/1220858999138943087/FiveM-Logo.png?ex=6610788b&is=65fe038b&hm=77b4fb8c428e5dbe255c44c22bd959dad2162547af253b4cb48874d0661d285f&" target="_blank"> </a> <br>    <a href="http://cfx.re/join/8zy4k4" class="btn btn-primary-gradient rounded-pill py-2 px-4 ms-3 d-none d-lg-block">SPADIKAM ROLEPLAY</a>  
+- 🔭 I’m currently working on   <a href="http://cfx.re/join/8zy4k4" class="btn btn-primary-gradient rounded-pill py-2 px-4 ms-3 d-none d-lg-block">SPADIKAM ROLEPLAY</a> <br>     
 - 💬 Ask me about **ETHICAL HACKING | PENETRATION TESTING | NMAP | METASPLOIT | JAVA SCRIPT | HTML | CSS | LUA** <br>
 - 📫 How to reach me **anandbhari123@gmail.com**  <br>
 - 📄 Know about my experiences **anandbarjun.rf.gd**  <br>
